@@ -4,7 +4,19 @@
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
+    justify-content: center;
   }
+
+  .container2 {
+    margin: 5px;
+    margin-left: 205px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+  }
+
+
   
   .container .box3 {
     width: 150px;
@@ -21,7 +33,7 @@
     border: 1px solid black;
     margin-right: 30px;
   }
-  .container .box {
+  .container2 .box {
     width: 150px;
     height: 150px;
     background-color: yellow;
@@ -43,9 +55,8 @@
     height: 150px;
     background-color: blue;
     border: 1px solid black;
-    margin-left: 532px;
+    margin-left: 740px;
   }
-
   
   
   
